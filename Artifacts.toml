@@ -1,0 +1,20 @@
+[[XLA_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bba9e2be5ee510751844c01a15946166809883be"
+libc = "glibc"
+os = "linux"
+
+    [[XLA_Tools.download]]
+    sha256 = "6a5f3bc1027be2d9a95217afb2fba27a6b53dcad1d80382d2810398da27c3005"
+    url = "https://github.com/JuliaBinaryWrappers/XLA_Tools_jll.jl/releases/download/XLA_Tools-v2.2.1+0/XLA_Tools.v2.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[XLA_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "729cf2983afb7c959c5c1603419d33e5bbbb06cc"
+libc = "glibc"
+os = "linux"
+
+    [[XLA_Tools.download]]
+    sha256 = "094b8ec5650b71c4d267cd24c93a0d29b52c77b73f270e49dbeebacb876c3534"
+    url = "https://github.com/JuliaBinaryWrappers/XLA_Tools_jll.jl/releases/download/XLA_Tools-v2.2.1+0/XLA_Tools.v2.2.1.x86_64-linux-gnu-cxx11.tar.gz"
